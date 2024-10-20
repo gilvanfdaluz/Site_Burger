@@ -336,4 +336,10 @@ footer .copyrights a:hover{
     .products-grid {
         grid-template-columns: 1fr;
     }
+    
+    footer .copyrights,
+    footer .rights {
+        font-size: 20px;
+        text-align:center;
+    }
 }
